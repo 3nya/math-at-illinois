@@ -16,6 +16,13 @@ git clone https://github.com/3nya/math-at-illinois.git
 cd math-at-illinois
 ```
 
+
+If building for the first time:
+```
+npm i
+npx quartz create
+```
+
 Run project locally - this should open quartz at `http://localhost:8080/`
 ```
 npx quartz build --serve

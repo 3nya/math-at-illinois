@@ -6,7 +6,7 @@ document.addEventListener("nav", async () => {
   if (!course) return
   
   try {
-    const response = await fetch('/static/gpa-processed.json')
+    const response = await fetch('../static/gpa-processed.json')
     const data = await response.json()
     const courseData = data[course]
     

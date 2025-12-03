@@ -40,8 +40,11 @@ is needed.
 
 ## Resources
 
-Axler's [Linear Algebra Done Right](https://linear.axler.net/) is a good
-textbook.
+[Linear Algebra Done Right by Axler](https://linear.axler.net/)
+
+[Finite Dimensional Vector Spaces by Halmos](https://link.springer.com/book/10.1007/978-1-4612-6387-6)
+
+[Linear Algebra by Lang](https://link.springer.com/book/10.1007/978-1-4757-1949-9)
 
 ### Recent Professors
 

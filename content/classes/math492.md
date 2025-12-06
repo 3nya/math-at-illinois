@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math492
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 492
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Undergraduate Research in Math (MATH492)
 
 ## Official Course Description
 

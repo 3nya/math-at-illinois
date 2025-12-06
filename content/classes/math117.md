@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math117
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 117
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Elementary Mathematics (MATH117)
 
 ## Official Course Description
 

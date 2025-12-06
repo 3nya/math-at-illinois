@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math466
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 466
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Applied Random Processes (MATH466)
 
 ## Official Course Description
 

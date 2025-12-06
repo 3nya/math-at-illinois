@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math550
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 550
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Dynamical Systems I (MATH550)
 
 ## Official Course Description
 

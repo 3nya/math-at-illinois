@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math481
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 481
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Vector and Tensor Analysis (MATH481)
 
 ## Official Course Description
 

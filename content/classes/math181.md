@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math181
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 181
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  A Mathematical World (MATH181)
 
 ## Official Course Description
 

@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math503
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 503
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Intro Geometric Group Theory (MATH503)
 
 ## Official Course Description
 

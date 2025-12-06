@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math432
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 432
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Set Theory and Topology (MATH432)
 
 ## Official Course Description
 

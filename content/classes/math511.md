@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math511
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 511
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Intro to Algebraic Geometry (MATH511)
 
 ## Official Course Description
 

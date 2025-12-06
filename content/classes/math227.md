@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math227
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 227
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Linear Algebra for Data Science (MATH227)
 
 ## Official Course Description
 

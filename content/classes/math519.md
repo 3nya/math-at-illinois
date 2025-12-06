@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math519
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 519
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Differentiable Manifolds II (MATH519)
 
 ## Official Course Description
 

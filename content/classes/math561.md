@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math561
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 561
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Theory of Probability I (MATH561)
 
 ## Official Course Description
 

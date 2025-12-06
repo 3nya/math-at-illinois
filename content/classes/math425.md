@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math425
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 425
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Honors Advanced Analysis (MATH425)
 
 ## Official Course Description
 

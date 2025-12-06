@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math586
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 586
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Algebraic Combinatorics (MATH586)
 
 ## Official Course Description
 

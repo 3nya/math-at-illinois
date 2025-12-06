@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math495
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 495
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Models in Mathematical Biology (MATH495)
 
 ## Official Course Description
 

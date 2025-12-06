@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math541
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 541
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Functional Analysis (MATH541)
 
 ## Official Course Description
 

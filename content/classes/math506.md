@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math506
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 506
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Group Representation Theory (MATH506)
 
 ## Official Course Description
 

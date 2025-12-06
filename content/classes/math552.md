@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math552
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 552
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Numerical Methods for PDEs (MATH552)
 
 ## Official Course Description
 

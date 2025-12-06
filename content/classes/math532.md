@@ -1,11 +1,11 @@
 --- 
-title: math314
+title: math532
 last-modified: 2025-12-05 
 tags: 
-course: MATH 314
+course: MATH 532
 ---
 
-#  Introduction to Higher Mathematics (MATH314)
+#  Analytic Theory of Numbers II (MATH532)
 
 ## Official Course Description
 

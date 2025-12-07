@@ -54,4 +54,3 @@ The honors section requires approval from the math department, which requires a 
 ### Recent Professors
 
 Christopher Dodd
-```

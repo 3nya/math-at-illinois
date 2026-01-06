@@ -1,6 +1,6 @@
 --- 
 title: Advice for REUs 
-last-modified: 2025-12-06
+last-modified: 2026-01-05
 ---
 Courtesy of Anakin Dey
 
@@ -81,3 +81,5 @@ while you aren't swamped with homework.
 [Spreadsheet of REUs](https://docs.google.com/spreadsheets/d/1U-27BeHMSJCWumbNByal2tHyYo9wRVud9WoRE70E47Y/edit?gid=435769815#gid=435769815)
 
 [Lena Ji’s Advice](https://lji.web.illinois.edu/reus/)
+
+[[Personal Statement Examples|ps]]

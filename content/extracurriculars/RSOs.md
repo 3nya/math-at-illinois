@@ -13,6 +13,12 @@ We hold weekly meetings covering a different topic broadly relating to some cent
 This club is just as much for those who are new to pure mathematics and theoretical computer science as well as those who already have a deep interested.
 The only prerequisite is an interest in learning math and theory.
 
+## [Directed Reading Program (DRP)](https://mathdrp.web.illinois.edu/)
+
+The Directed Reading Program (DRP) is designed to connect graduate student mentors with undergraduate mentees for an in-depth exploration of a mathematical topic or text that lies outside the standard undergraduate curriculum. This one-on-one setting offers a unique opportunity for undergraduates to delve into advanced or specialized areas of mathematics with personalized guidance.
+
+**Application required, more information on website.**
+
 ## [Society for Industrial and Applied Mathematics (SIAM)](https://discord.com/invite/ZJFXFkJ2g7)
 
 ## [Mathematical Advancement Through Research and Idea eXchange (MATRIX)](https://discord.com/invite/WrVETynfWx)

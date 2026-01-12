@@ -1,6 +1,6 @@
 --- 
 title: math580 
-last-modified: 2025-11-20 
+last-modified: 2026-01-12
 tags: 
     - combinatorics 
     - cross-listed 
@@ -41,7 +41,7 @@ Taking Math 580 opens up the Math 58X sequence, that is Math 581, 582, 583, 584,
 
 ## Resources 
 
-(blank)
+[[../assets/MATH_580_Notes.pdf|MATH 580 Textbook]]
 
 ### Recent Professors
 

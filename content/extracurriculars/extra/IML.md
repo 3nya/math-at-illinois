@@ -5,7 +5,7 @@ tags:
     - research
 ---
 
-Courtesy of Anakin Dey
+Courtesy of Anakin DeCourtesy of [Anakin Dey](https://anakin.phd/) and [SIGma Special Interest Group](https://www.cstheory.org/).
 
 ## What is IML?
 The Illinois Mathematics Lab (formerly Illinois Geometry Lab) fosters opportunities for University of Illinois undergraduates in mathematical research, experimentation, and visualization. Each fall and spring semester, faculty members, assisted by graduate students, offer collaborative projects for small groups of undergraduates. The IML also has an active program of mathematical outreach to local schools and communities.

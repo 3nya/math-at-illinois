@@ -9,7 +9,7 @@ A list of math-related programs offered by UIUC.
 
 The Illinois Mathematics Lab (formerly Illinois Geometry Lab) fosters opportunities for University of Illinois undergraduates in mathematical research, experimentation, and visualization. Each fall and spring semester, faculty members, assisted by graduate students, offer collaborative projects for small groups of undergraduates. The IML also has an active program of mathematical outreach to local schools and communities.
 
-[[extracurriculars/extra/IML.md]]
+[[extracurriculars/extra/IML.md|Additional Information]] - More about IML, tips on getting in, etc.
 
 ## [Pi Mu Epsilon, Illinois Alpha Chapter](https://math.illinois.edu/pi-mu-epsilon-illinois-alpha-chapter)
 

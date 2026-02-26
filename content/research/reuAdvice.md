@@ -1,8 +1,10 @@
 --- 
 title: Advice for REUs 
 last-modified: 2026-01-05
+tags:
+    - research
 ---
-Courtesy of Anakin Dey
+Courtesy of [Anakin Dey](https://anakin.phd/) and [SIGma Special Interest Group](https://www.cstheory.org/).
 
 # Advice for REUs
 
@@ -46,6 +48,8 @@ writers. These should be 1 page long.
 Below are the personal statements of UIUC students who have gotten into
 REUs before!
 
+[[ps|UIUC Personal Statement Examples]]
+
 ## Letters of Recommendation
 
 You will need two letters of rec, preferably from professors in the field
@@ -80,6 +84,6 @@ while you aren't swamped with homework.
 
 [Spreadsheet of REUs](https://docs.google.com/spreadsheets/d/1U-27BeHMSJCWumbNByal2tHyYo9wRVud9WoRE70E47Y/edit?gid=435769815#gid=435769815)
 
-[Lena Ji’s Advice](https://lji.web.illinois.edu/reus/)
+[Lena Ji’s Advice](https://lji.web.illinois.edu/reus/) - A blog of REU advice, written by professor Ji from UIUC.
 
-[[Personal Statement Examples|ps]]
+[[ps|UIUC Personal Statement Examples]]
